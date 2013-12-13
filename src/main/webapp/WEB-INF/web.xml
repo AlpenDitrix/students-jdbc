@@ -9,7 +9,7 @@
 
     <servlet-mapping>
         <servlet-name>answers</servlet-name>
-        <url-pattern>/answer/*</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 
 </web-app>
